@@ -1,0 +1,7 @@
+azure-functions
+textblob
+requests
+azure-identity
+azure-keyvault-secrets
+azure-data-tables==12.4.4
+azure-data-tables
